@@ -2,116 +2,121 @@
     <string name="app_name">Relic Aisle</string>
 
     <!-- shared -->
-    <string name="price">£%1$.2f</string>
-    <string name="price_total">Total: £%1$.2f</string>
-    <string name="back_icon_description">Back</string>
-    <string name="clear_cart_icon_description">Clear cart</string>
+    <string name="price">£ %1$.2f</string>
+    <string name="price_total">Sum: £%1$.2f</string>
+    <string name="back_icon_description">Return</string>
+    <string name="clear_cart_icon_description">Empty basket</string>
 
     <!-- top bar titles -->
-    <string name="qffm_top_bar_home_title">Home</string>
-    <string name="qffm_top_bar_cart_title">Cart</string>
-    <string name="qffm_top_bar_checkout_title">Checkout</string>
-    <string name="qffm_top_bar_orders_title">Orders</string>
-    <string name="qffm_top_bar_settings_title">Settings</string>
-    <string name="qffm_top_bar_product_details_title">Details</string>
-    <string name="qffm_top_bar_tagline">The best choice</string>
+    <string name="qffm_top_bar_home_title">Collection</string>
+    <string name="qffm_top_bar_cart_title">Basket</string>
+    <string name="qffm_top_bar_checkout_title">Purchase</string>
+    <string name="qffm_top_bar_orders_title">Purchases</string>
+    <string name="qffm_top_bar_settings_title">Preferences</string>
+    <string name="qffm_top_bar_product_details_title">Provenance</string>
+    <string name="qffm_top_bar_tagline">History to hold</string>
 
     <!-- bottom bar navigation item titles -->
-    <string name="qffm_bottom_bar_nav_item_home_title">Home</string>
-    <string name="qffm_bottom_bar_nav_item_cart_title">Cart</string>
-    <string name="qffm_bottom_bar_nav_item_orders_title">Orders</string>
-    <string name="qffm_bottom_bar_nav_item_settings_title">Settings</string>
+    <string name="qffm_bottom_bar_nav_item_home_title">Browse</string>
+    <string name="qffm_bottom_bar_nav_item_cart_title">Basket</string>
+    <string name="qffm_bottom_bar_nav_item_orders_title">Purchases</string>
+    <string name="qffm_bottom_bar_nav_item_settings_title">More</string>
 
     <!-- splash screen -->
-    <string name="qffm_app_logo_description">App logo</string>
-    <string name="splash_screen_tagline">Everything you need in one place</string>
+    <string name="qffm_app_logo_description">Relic seal</string>
+    <string name="splash_screen_tagline">Rare finds with lasting stories</string>
 
     <!-- onboarding screen -->
-    <string name="page_discover_title">Discover What You Need</string>
-    <string name="page_discover_description">Browse thousands of products across every category and find exactly what you\'re looking for.</string>
+    <string name="page_discover_title">Discover Remarkable Finds</string>
+    <string name="page_discover_description">Browse distinctive antiques, historic objects, and old books selected for curious collectors.</string>
 
-    <string name="page_checkout_title">Checkout Made Simple</string>
-    <string name="page_checkout_description">Secure payments and a fast, hassle-free checkout every time you shop.</string>
+    <string name="page_checkout_title">Purchase with Confidence</string>
+    <string name="page_checkout_description">Review each find and complete your antique purchase with a simple, secure checkout.</string>
 
-    <string name="page_delivery_title">Fast, Reliable Delivery</string>
-    <string name="page_delivery_description">Track your order in real time and get updates every step of the way.</string>
+    <string name="page_delivery_title">Careful, Tracked Delivery</string>
+    <string name="page_delivery_description">Follow your purchase while careful packing helps protect its journey to you.</string>
 
-    <string name="next_button_title">Next</string>
-    <string name="start_button_title">Start</string>
-    <string name="skip_button_title">Skip</string>
+    <string name="next_button_title">Continue</string>
+    <string name="start_button_title">Browse</string>
+    <string name="skip_button_title">Later</string>
 
     <!-- %1$s – button label (Next/Start), %2$d and %3$d – current page number and total number of pages. -->
-    <string name="onboarding_button_progress">%1$s · %2$d/%3$d</string>
+    <string name="onboarding_button_progress">%1$s — %2$d of %3$d</string>
 
     <!-- home screen -->
-    <string name="products_state_empty_primary_text">No products available</string>
-    <string name="home_featured_title">Featured</string>
-    <string name="home_categories_title">Categories</string>
-    <string name="home_products_title">Products</string>
-    <string name="home_products_count">%1$d items</string>
-    <string name="add_to_cart_icon_description">Add to cart</string>
+    <string name="products_state_empty_primary_text">No antiques on display</string>
+    <string name="home_featured_title">Notable Finds</string>
+    <string name="home_categories_title">Collections</string>
+    <string name="home_products_title">Antiques</string>
+    <string name="home_products_count">%1$d finds</string>
+    <string name="add_to_cart_icon_description">Add find</string>
 
     <!-- product categories -->
-    <string name="qffm_category_all">All</string>
+    <string name="qffm_category_all">Everything</string>
+    <string name="product_category_books_manuscripts_title">Books &amp; Manuscripts</string>
+    <string name="product_category_coins_medals_title">Coins &amp; Medals</string>
+    <string name="product_category_ceramics_title">Ceramics</string>
+    <string name="product_category_timepieces_title">Timepieces</string>
+    <string name="product_category_historical_instruments_title">Historical Instruments</string>
 
     <!-- product details screen -->
-    <string name="product_details_state_empty_primary_text">No information available for this product</string>
-    <string name="product_image_description">Product image</string>
-    <string name="button_add_to_cart_label">Add to Cart</string>
-    <string name="product_details_description_title">Description</string>
-    <string name="product_details_snackbar_added_to_cart">Added to cart</string>
+    <string name="product_details_state_empty_primary_text">No catalog notes found for this antique</string>
+    <string name="product_image_description">Antique photograph</string>
+    <string name="button_add_to_cart_label">Add to Basket</string>
+    <string name="product_details_description_title">Catalog Notes</string>
+    <string name="product_details_snackbar_added_to_cart">Saved to basket</string>
 
     <!-- cart screen -->
-    <string name="cart_state_empty_primary_text">Nothing in your cart yet</string>
-    <string name="button_place_order_label">Place Order • £%1$.2f</string>
-    <string name="increase_quantity_icon_description">Increase quantity</string>
-    <string name="decrease_quantity_icon_description">Decrease quantity</string>
-    <string name="delete_item_icon_description">Delete item</string>
-    <string name="cart_items_count">Items: %1$d</string>
-    <string name="cart_item_quantity_multiplier">%1$s × %2$d</string>
-    <string name="cart_summary_subtotal_label">Subtotal</string>
-    <string name="cart_summary_delivery_label">Delivery</string>
-    <string name="cart_summary_delivery_free">Free</string>
-    <string name="cart_summary_total_label">Total</string>
+    <string name="cart_state_empty_primary_text">Your antique basket is empty</string>
+    <string name="button_place_order_label">Buy Finds • £%1$.2f</string>
+    <string name="increase_quantity_icon_description">Add another</string>
+    <string name="decrease_quantity_icon_description">Remove one</string>
+    <string name="delete_item_icon_description">Remove find</string>
+    <string name="cart_items_count">Finds: %1$d</string>
+    <string name="cart_item_quantity_multiplier">%2$d × %1$s</string>
+    <string name="cart_summary_subtotal_label">Finds</string>
+    <string name="cart_summary_delivery_label">Shipping</string>
+    <string name="cart_summary_delivery_free">Included</string>
+    <string name="cart_summary_total_label">Amount</string>
 
     <!-- orders screen -->
-    <string name="orders_state_empty_primary_text">You have no orders yet</string>
-    <string name="order_number">Order #%1$s</string>
-    <string name="order_customer">Customer: %1$s %2$s</string>
-    <string name="order_customer_email">Email: %1$s</string>
-    <string name="order_date_pattern">dd MMM yyyy, HH:mm</string>
-    <string name="order_status_confirmed">Confirmed</string>
-    <string name="order_total_label">Total</string>
+    <string name="orders_state_empty_primary_text">No antique purchases yet</string>
+    <string name="order_number">Purchase #%1$s</string>
+    <string name="order_customer">Collector: %1$s %2$s</string>
+    <string name="order_customer_email">Contact: %1$s</string>
+    <string name="order_date_pattern">d MMM yyyy · HH:mm</string>
+    <string name="order_status_confirmed">Reserved</string>
+    <string name="order_total_label">Amount</string>
 
     <!-- checkout screen -->
-    <string name="checkout_headline">Almost there</string>
-    <string name="checkout_invitation">Leave your name and email — we\'ll confirm the order and keep you posted on delivery.</string>
-    <string name="checkout_text_field_first_name">First Name</string>
-    <string name="checkout_text_field_last_name">Last Name</string>
-    <string name="checkout_text_field_email">Email</string>
-    <string name="checkout_email_supporting_text">The order confirmation goes to this address</string>
-    <string name="checkout_email_error_text">Enter a valid email, for example name@example.com</string>
-    <string name="button_confirm_order_label">Confirm Order</string>
+    <string name="checkout_headline">Claim your finds</string>
+    <string name="checkout_invitation">Share your name and email — we\'ll reserve the antiques and send shipping details.</string>
+    <string name="checkout_text_field_first_name">Given Name</string>
+    <string name="checkout_text_field_last_name">Family Name</string>
+    <string name="checkout_text_field_email">Contact Email</string>
+    <string name="checkout_email_supporting_text">Your purchase record is sent here</string>
+    <string name="checkout_email_error_text">Use a valid address, such as name@example.com</string>
+    <string name="button_confirm_order_label">Reserve Finds</string>
 
     <!-- checkout dialog -->
-    <string name="checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
-    <string name="checkout_dialog_confirm">Done</string>
+    <string name="checkout_dialog_title">Your Finds Are Reserved!</string>
+    <string name="checkout_success_message">Your antique purchase is confirmed. Our team will contact you soon with careful shipping details.</string>
+    <string name="checkout_dialog_confirm">Close</string>
 
     <!-- settings screen -->
-    <string name="settings_screen_app_label">Application</string>
-    <string name="settings_screen_version_label">Version</string>
+    <string name="settings_screen_app_label">Catalog App</string>
+    <string name="settings_screen_version_label">Release</string>
     <string name="qffm_app_version">1.0.0</string>
 
-    <string name="settings_screen_company_label">Company</string>
+    <string name="settings_screen_company_label">Antique Dealer</string>
     <string name="qffm_company_name">PROSPERA ANCIENT ART . LTD</string>
 
-    <string name="settings_screen_customer_support_label">Customer Support</string>
+    <string name="settings_screen_customer_support_label">Collector Help</string>
     <string name="qffm_customer_support_link">https://antique-art-trade.top</string>
 
     <!-- clear cart dialog -->
-    <string name="clear_cart_dialog_title">Clear cart?</string>
-    <string name="clear_card_dialog_text">Are you sure you want to remove all items from your cart?</string>
-    <string name="button_confirm_clear_cart">Confirm</string>
-    <string name="button_cancel_clear_cart">Cancel</string>
+    <string name="clear_cart_dialog_title">Empty basket?</string>
+    <string name="clear_card_dialog_text">Remove every antique currently saved in your basket?</string>
+    <string name="button_confirm_clear_cart">Remove All</string>
+    <string name="button_cancel_clear_cart">Keep Finds</string>
 </resources>
