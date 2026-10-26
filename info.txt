@@ -1,0 +1,6 @@
+name=Relic Aisle
+bundle=prosperaancientart.antiques.relicaisle
+organization=Relic
+alias=key
+pwd=bS0kT2ghR3oqV1yZ6sfN
+key-pwd=bS0kT2ghR3oqV1yZ6sfN

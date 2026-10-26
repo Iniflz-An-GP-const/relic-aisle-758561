@@ -91,8 +91,8 @@
     <!-- checkout screen -->
     <string name="checkout_headline">Claim your finds</string>
     <string name="checkout_invitation">Share your name and email — we\'ll reserve the antiques and send shipping details.</string>
-    <string name="checkout_text_field_first_name">Given Name</string>
-    <string name="checkout_text_field_last_name">Family Name</string>
+    <string name="checkout_text_field_first_name">First name</string>
+    <string name="checkout_text_field_last_name">Last name</string>
     <string name="checkout_text_field_email">Contact Email</string>
     <string name="checkout_email_supporting_text">Your purchase record is sent here</string>
     <string name="checkout_email_error_text">Use a valid address, such as name@example.com</string>
